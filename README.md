@@ -7,7 +7,7 @@ Structural and cell biologist in Switzerland (PSI, EPFL, University of Bern, Uni
 - 🔬 **Custom image-analysis tools**: confocal, widefield, electron microscopy and research MRI/CT data; napari and Fiji plugins, automatic detection and counting
 - 📊 **Data analysis and statistics**: experimental design, mixed models, reproducible Python/R analysis, publication figures
 - 🧬 **Bioinformatics and project support**: RNA-seq and proteomics, structure analysis (AlphaFold, PDB), iPSC and neuronal cell models
-- ❄️ **Cryo sample preparation**: vitrification of proteins, cells and tissue for cryo-EM and cryo-ET (plunge freezing, high-pressure freezing)
+- ❄️ **Cryo sample preparation**: vitrification of proteins, cells and tissue for cryo-EM and cryo-ET (plunge freezing, high-pressure freezing) and cryo-sectioning (CEMOVIS)
 - 🧪 **Scientific due diligence**: neurodegeneration, nanomedicine and structural-biology programmes
 
 📝 Topic Editor, *Frontiers in Molecular Neuroscience*: [Human in Vitro Models in Neuroscience](https://www.frontiersin.org/research-topics/80778/human-in-vitro-models-in-neuroscience)
